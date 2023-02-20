@@ -1,0 +1,9 @@
+4 O 0 N 3 rrr 0 N 0 WG 2 O 0 N 0 N 0 N 0 N 2 C 0 N 4 C
+0 N 0 N 2 O 0 N 0 N 3 O 0 N 0 N 0 N 0 N 0 N 3 rr 0 N
+0 N 1 N 0 N 0 N 0 N 1 N 0 JS 1 N 0 N 0 N 0 N 0 N 0 N
+0 N 1 N 1 N 1 N 0 N 0 N 0 N 3 R 0 JB 1 N 2 O 0 N 0 N
+0 JW 1 N 0 N 0 N 0 IL 1 N 2 O 1 N 0 N 0 N 1 N 0 N 0 SG
+0 N 0 N 2 O 1 N 0 N 3 R 0 SH 0 N 0 N 1 N 1 N 1 N 0 N
+0 N 0 N 0 N 0 N 0 N 1 N 0 N 1 N 0 N 0 N 0 N 1 N 0 N
+2 C 3 r 0 N 0 N 0 N 0 N 0 N 3 O 0 N 0 N 0 N 2 O 0 N
+4 C 0 N 0 N 0 N 0 N 0 MS 0 N 2 O 0 N 1 N 1 N 3 rrrr 4 O

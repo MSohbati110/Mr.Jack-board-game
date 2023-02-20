@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643478725 source:c:\users\mostafa\desktop\new folder\mr jack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
